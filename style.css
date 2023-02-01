@@ -73,3 +73,17 @@ span{
     margin: 0;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
+
+@media screen and (min-width: 200px) and (max-width: 500px) {
+    .note{
+        margin-top: 350px;
+    }
+
+    .flower{
+        left: 15rem;
+    }
+
+    .flower2{
+        right: 15rem;
+    }
+}
